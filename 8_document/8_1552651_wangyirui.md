@@ -1,4 +1,4 @@
-###<center><h1>数据结构项目二文档</h1></center><br/>
+###<center><h1>数据结构项目八文档</h1></center><br/>
 #####<center><h5>同济大学 软件学院 15级2班 1552651 王依睿</h5></center>
 
 ---
@@ -9,7 +9,7 @@
 #### 开始
 
 运行程序后，显示电网造价模拟系统的操作说明。<br/><br/>
-![qwer] (file:\E:\Study\data\project\8\8_document\9.jpg)
+![qwer] (9.jpg)
 <br/><br/>
 
 
@@ -20,7 +20,7 @@
 - 依次输入顶点名称。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\2.jpg)
+![qwer] (2.jpg)
 <br/><br/>
 
 #### 添加电网的边
@@ -29,7 +29,7 @@
 - 输入两个顶点及边。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\3.jpg)
+![qwer] (3.jpg)
 <br/><br/>
 
 #### 构造最小生成树
@@ -38,13 +38,13 @@
 - 输入起始顶点。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\4.jpg)
+![qwer] (4.jpg)
 <br/><br/>
 
 - 输出“生成prim最小生成树！”字样，表示程序已经用prim方法生成最小生成树。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\5.jpg)
+![qwer] (5.jpg)
 <br/><br/>
 
 #### 显示最小生成树
@@ -52,25 +52,25 @@
 - 选择操作D。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\6.jpg)
+![qwer] (6.jpg)
 <br/><br/>
 
 - 输出最小生成树的顶点及边。
 <br/>
 
-![qwer] (file:\E:\Study\data\project\8\8_document\7.jpg)
+![qwer] (7.jpg)
 <br/><br/>
 
 
 #### 退出程序
 
 选择操作E。<br/><br/>
-![qwer] (file:\E:\Study\data\project\8\8_document\11.jpg)
+![qwer] (11.jpg)
 <br/><br/>
 
 #### 整体预览
 
-![qwer] (file:\E:\Study\data\project\8\8_document\12.jpg)
+![qwer] (12.jpg)
 <br/><br/>
 
 ### 注意事项
